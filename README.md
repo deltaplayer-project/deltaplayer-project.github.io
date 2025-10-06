@@ -2,3 +2,9 @@
 https://deltaplayer-project.github.io/ &mdash; a continuation of радужный дымящий дельтаплан https://sf.net/p/deltaplayer &amp; https://code.google.com/archive/p/deltaplayer/ делали вместе с немцем Tobias Winterhaler два Древа кода перевитых общими лианами с его https://sf.net/p/directoryplayer with maybe vcs scm darcs &amp; maybe https://github.com/arxvcs
 
 в quodlibet плеере и у меня свой такой же плеер есть радужный дымящий дельтаплан как у Свиньи покойного Андрюхи Панова из АУ Автоматических Удовлетворителей устаревший плеер мой ппц сто лет его не тікал и не видел — старый урл (не качайте — дико устаревшее!! и он не умеет пока что нихрена в мобилы!! только на десктопах и ноутах!! и не тыкайте всё равно капец устаревшее!! https://sf.net/p/deltaplayer или https://code.google.com/archive/p/deltaplayer/ делали вместе с немцем Tobias Winterhaler два Древа кода перевитых общими лианами с его — не тыкайте оно оч устаревшее и тоже заброшенное!! https://sf.net/p/directoryplayer при помощи vcs scm darcs делали и нада БЫ ещё делать мета вцс https://github.com/arxvcs
+
+## Issues
+ * https://github.com/deltaplayer-project/deltaplayer-umbrella/issues
+ * at google code
+ * ...
+ * just some old code!
